@@ -1,0 +1,5 @@
+serverside/ConnectionHandler.class
+serverside/Games.class
+clientside/Client.class
+serverside/HTTPServer.class
+serverside/Game.class
